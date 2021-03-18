@@ -1,3 +1,5 @@
+""" Rotate Sttrings """"
+
 #include <iostream>
 #include<string.h>
 
